@@ -36,4 +36,4 @@ cd ..
 ```
 npm run dev
 ```
-#### Access the Application at localhost:3000
+#### Access the Application at ```localhost:3000```
