@@ -7,7 +7,7 @@ To Increase Transparency and Prevent Fraudulent Activities that arise around the
 ## What We Propose :
 Making transaction histories more transparent and secure through the use of blockchain technology. Because Blockchain is a type of distributed ledger, all network participants share the same documentation as opposed to individual copies. Contributors can decide Where to invest and can Acknowledge the requests for money made by the Project Creators through their votes.The creator can only use the money if a minimum number of contributors approve a certain request. It will make sure the money is used for Necessities rather than Luxuries.
 
-#### Installation :
+### Installation :
 ```
 Open Command Prompt in the Directory You Want to Install.
 ```
